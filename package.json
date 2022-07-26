@@ -1,14 +1,14 @@
 {
   "name": "alchemy-scripts",
   "version": "1.0.0",
-  "description": "Scripts to query the Ethereum blockchain using alchemy-sdk.",
+  "description": "Scripts to query the Ethereum blockchain using the alchemy-sdk JavaScript library.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "alchemy-sdk": "^2.0.0"
   },
